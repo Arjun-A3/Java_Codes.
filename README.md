@@ -1,2 +1,2 @@
 # Java_Codes
-Various Java code for algorithm
+Various Java code for algorithms
