@@ -1,2 +1,6 @@
-# Java_Codes
-Various Java code for algorithms
+
+# Java Codes
+
+A Repo for java code with solution to DS algorithms
+
+
